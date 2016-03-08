@@ -6,3 +6,4 @@ Init pezon.github.io pages
 - trapped in the closet graph (orientdb)
 - CNN transcripts api/service/analysis
 - frontpage/chrome tab/content manager/organizer
+- filesystem organizer (service)
